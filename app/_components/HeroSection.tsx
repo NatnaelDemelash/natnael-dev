@@ -36,7 +36,7 @@ const HeroSection = () => {
             Building modern web applications with creativity and precision.
           </h1> */}
           <TextGenerateEffect
-            words="Building modern web applications with creativity"
+            words="Building Modern Web Applications With Creativity"
             className="text-[40px] md:text-6xl lg:text-7xl font-bold text-center max-w-5xl leading-snug tracking-wide"
           />
           <p className="pt-5 pb-8 text-sm sm:text-base md:text-lg text-dark-200 dark:text-stone-200/70">

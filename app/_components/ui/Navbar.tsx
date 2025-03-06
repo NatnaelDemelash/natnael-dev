@@ -7,7 +7,7 @@ import {
   useScroll,
 } from 'framer-motion';
 import Link from 'next/link';
-import { useState, type ReactElement } from 'react';
+import { useState } from 'react';
 
 export const Navbar = ({
   navItems,
@@ -16,7 +16,7 @@ export const Navbar = ({
   navItems: {
     name: string;
     link: string;
-    icon?: ReactElement;
+    icon?: JSX.Element;
   }[];
   className?: string;
 }) => {

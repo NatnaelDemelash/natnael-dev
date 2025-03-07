@@ -21,8 +21,8 @@ const HeroSection = () => {
           <Image
             src="/imgs/profile.jpeg"
             alt="Profile Picture"
-            width={200}
-            height={200}
+            width={400}
+            height={400}
             className="rounded-full"
           />
         </div>

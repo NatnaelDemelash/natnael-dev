@@ -58,8 +58,8 @@ export const portfolioProjects = [
       'Designed and developed a responsive website for a local pizza shop, with a focus on user-friendly navigation and visual appeal.',
     imageUrl: '/imgs/projects/portfolio-mockup2.png',
     techStack: ['TypeScript', 'React', 'Redux', 'TailwindCSS'],
-    // liveDemoUrl: 'https://shoptidy.vercel.app',
-    // sourceCodeUrl: 'https://github.com/andrijaweb/ecommerce-app',
+    liveDemoUrl: 'https://demo-url.com',
+    sourceCodeUrl: 'https://github.com/username/repo',
   },
   {
     id: 'OmniFood',
@@ -69,8 +69,8 @@ export const portfolioProjects = [
       'An AI based tech company which majorly focuses on consumer well-being through a healthy diet.',
     imageUrl: '/imgs/projects/portfolio-mockup1.png',
     techStack: ['JavaScript', 'React', 'TailwindCSS'],
-    // liveDemoUrl: 'https://socialspherenetwork.vercel.app',
-    // sourceCodeUrl: 'https://github.com/andrijaweb/socialmedia-reactapp',
+    liveDemoUrl: 'https://demo-url.com',
+    sourceCodeUrl: 'https://github.com/username/repo',
   },
   {
     id: 'Puluk Travel',
@@ -80,7 +80,7 @@ export const portfolioProjects = [
       'Developed a fully functional travel website for a local tourism company.',
     imageUrl: '/imgs/projects/portfolio-mockup3.png',
     techStack: ['NextJS', 'TailwindCSS', 'Advanced forms'],
-    // liveDemoUrl: 'https://nextcut.vercel.app',
-    // sourceCodeUrl: 'https://github.com/andrijaweb/nextCut-app',
+    liveDemoUrl: 'https://demo-url.com',
+    sourceCodeUrl: 'https://github.com/username/repo',
   },
 ];
